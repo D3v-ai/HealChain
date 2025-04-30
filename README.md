@@ -141,6 +141,7 @@ Ensure you have the following installed on your system:
 
 ## License
 
-[Specify the license under which your project is released. For example:]
 
-This project is licensed under the [MIT License](LICENSE). See the `LICENSE` file for more information.
+This project is licensed under the MIT License
+
+Copyright (c) 2025 Shubham Singh
