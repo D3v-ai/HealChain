@@ -1,0 +1,10 @@
+node_modules/
+venv/
+.env
+cache/
+artifacts/
+build/
+.vscode/
+__pycache__/
+*.pyc
+*.loggi
